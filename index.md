@@ -35,31 +35,61 @@ So why wait? Download NumZap now and embark on a thrilling journey to unleash yo
 
 ## 🕵️ Privacy policy {#privacy}
 
-Your privacy is critically important to us. Your data is your own. We make no claims to it and will only use it according to the policies outlined below.
+**Privacy Policy**
 
-If you have questions about deleting or correcting your personal data please contact our support team.
+NumZap built the NumZap app as a Free app. This SERVICE is provided by NumZap at no cost and is intended for use as is.
 
-### Gathering of Personally-Identifying Information
-NumZap does not gather personally identifying information.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-### Protection of Certain Personally-Identifying Information
-No Personally-Identifying Information is transmitted to external locations when using NumZap.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-### Cookies
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. The NumZap website identify and track visitors, their usage of NumZap website, and their website access preferences. The NumZap website visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using NumZap's websites.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at NumZap unless otherwise defined in this Privacy Policy.
 
-### Business Transfers
-If NumZap, or substantially all of its assets, were acquired, or in the unlikely event that NumZap goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of NumZap may continue to use your personal information as set forth in this policy.
+**Information Collection and Use**
 
-### Privacy Policy Changes
-Although most changes are likely to be minor, NumZap may change its Privacy Policy from time to time, and in NumZap's sole discretion. NumZap encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to IDFA. The information that I request will be retained on your device and is not collected by me in any way.
 
-### Limited Warranties
-We do not warrant the completeness or accuracy of the information published on this website; nor do we commit to ensuring that the website remains available or that the material on the website is kept up to date.
+The app does use third-party services that may collect information used to identify you.
 
-To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to this website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill).
+Link to the privacy policy of third-party service providers used by the app
 
-### Indemnity
-You hereby indemnify us and undertake to keep us indemnified against any losses, damages, costs, liabilities and expenses (including, without limitation, legal expenses and any amounts paid by us to a third party in settlement of a claim or dispute on the advice of our legal advisers) incurred or suffered by us arising out of any breach by you of any provision of these terms of use, or arising out of any claim that you have breached any provision of these terms of use.
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-Adapted from the automattic.com privacy policy under a Creative Commons Sharealike license.
+**Log Data**
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+**Cookies**
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+**Service Providers**
+
+I may employ third-party companies and individuals due to the following reasons:
+
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Security**
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2024-03-08
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at numzapapp@gmail.com.
