@@ -92,4 +92,4 @@ This policy is effective as of 2024-03-08
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at numzapapp@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <numzapapp [at] gmail.com>.
